@@ -8,3 +8,5 @@ Quiz_Mania_in_Cpp_Along_Result_Storage_Using_Files
 3.Once the User completes Answering all the Questions,their score gets Generated.
 
 4.Inorder to Maintain and store the Results for Future Purpose we have even made us of File Handling Approach to store the result into a TXT File,along with the  TimeStamp over here.
+
+5.Two files are considered,First File is used to store each of the entry made by the User,Second file is Used to store th Top Scorer for the particular TimeStamp.
